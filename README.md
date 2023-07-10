@@ -10,8 +10,3 @@ The repos is to show my work-out in paralle-computing technique - CUDA. The snni
 3. to do convolution filtering in 3D structure of CUDA
 4. to test assertion
 5. to test shared memory
-    
-    
-# Collection
-
-# TODO in Action items
