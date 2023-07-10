@@ -6,7 +6,7 @@ The repos is to show my work-out in paralle-computing technique - CUDA. The snni
 
 [ `.cu` processing ]
 1. to test deviceQuery
-2. to do convolution filtering in 2D structure of CUDA
-3. to do convolution filtering in 3D structure of CUDA
-4. to test assertion
-5. to test shared memory
+2. to test assertion
+3. to test shared memory 
+4. to do convolution filtering in 2D structure of CUDA
+5. to do convolution filtering in 3D structure of CUDA
